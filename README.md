@@ -25,3 +25,8 @@ Rajiv Gandhi Aiport
 | :---        |    :----:   |          ---: |
 | Hyderabad      | Charminar       | 45 minutes |
 | Vizag   | Rushikonda        |  3 Hours      |
+
+---
+# Favorite Quotes
+> It's not what you did, It's who you did it to !
+> Live young and free
