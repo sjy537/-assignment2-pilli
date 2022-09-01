@@ -31,3 +31,8 @@ Rajiv Gandhi Aiport
 > It's not what you did, It's who you did it to ! *John Wick*
 
 > I am coming for you ! *John Wick*
+
+---
+# Code Fencing
+
+>htaccess redirect to https://www <https://stackoverflow.com/questions/13977851/htaccess-redirect-to-https-www>
