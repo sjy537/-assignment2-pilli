@@ -7,7 +7,7 @@ The **Salar Jung** Museum is an art museum located at Dar-ul-Shifa, on the south
 ---
 # Directions to nearest airport 
 Rajiv Gandhi Aiport
-1. Book a cab to S alarjung
+1. Book a cab to Salarjung
 2. Get down once you arrive at the museum
 3. Here you are !
 
