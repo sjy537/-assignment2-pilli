@@ -22,6 +22,6 @@ Rajiv Gandhi Aiport
 ## Top 4 cities to visit in India
 
 | City    | Important Location | Time to Spend at the Important Location
-   --        --                         -------------------
+   --        --                         --
 Hyderabad | Charminar          | 45 minutes
 Vizag     | Rushikonda         | 3 Hours
