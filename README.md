@@ -36,3 +36,6 @@ Rajiv Gandhi Aiport
 # Code Fencing
 
 >htaccess redirect to https://www <https://stackoverflow.com/questions/13977851/htaccess-redirect-to-https-www>
+
+<code> Redirect 301 /oldpage.html http://www.yoursite.com/newpage.html
+Redirect 301 /oldpage2.html http://www.yoursite.com/folder/ </code>
