@@ -41,3 +41,6 @@ Rajiv Gandhi Aiport
 Redirect 301 /oldpage2.html http://www.yoursite.com/folder/ </code>
 
 >quick-link for the snippet source https://css-tricks.com/snippets/htaccess/301-redirects/
+
+
+**sefs**
